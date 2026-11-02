@@ -15,7 +15,7 @@ PowerShell에 아래 명령을 입력하고 Enter를 누릅니다.
 
 python -m pip install jupyterlab
 
-이미 설치했다면 이 단계는 건너뜁니다.
+(이미 설치했다면 이 단계는 건너뜁니다.)
 
 
 3. 주피터 실행 
